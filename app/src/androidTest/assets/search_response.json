@@ -1,0 +1,24 @@
+{
+  "groups": [{
+    "title": "Г",
+    "cats": [{
+      "id": 14096,
+      "name": "Гречка",
+      "description": "Описание кота",
+      "tags": null,
+      "gender": "female",
+      "likes": 3,
+      "dislikes": 5
+    }, {
+      "id": 15989,
+      "name": "Гречкаааа",
+      "description": "",
+      "tags": null,
+      "gender": "female",
+      "likes": 0,
+      "dislikes": 1
+    }],
+    "count": 2
+  }],
+  "count": 2
+}
